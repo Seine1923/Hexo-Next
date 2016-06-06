@@ -1,9 +1,12 @@
-title: 基于Yii2高级模板DbManager	的RBAC配置与开发
+title: 基于Yii2高级模板DbManager的RBAC配置与开发
 date: 2016-05-26 00:00:00
 categories: Web开发
 tags: [MySQL, PHP, Yii2]
 
 ---
+
+[yii2搭建完美后台并实现rbac权限控制实例教程](http://www.manks.top/article/yii2_frame_rbac_template)  
+[yii2 rbac权限控制详细操作步骤](http://www.manks.top/yii2_rbac_description.html)
 
 ## 1. 配置authManager
 

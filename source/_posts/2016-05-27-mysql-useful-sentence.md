@@ -27,3 +27,7 @@ tags: [MySQL, PHP, Yii2]
 ## 5. 删除表中所有内容
 
 	delete from auth_assignment
+
+## 6. 修改字段类型
+
+	alter table user modify column groups varchar(50);
